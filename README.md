@@ -1,5 +1,4 @@
 # auto_post_streamming
-# auto_post_streamming
 
 Auto Streaming of post using JSON database. Add objects with attribute to display them accordingly.
 
